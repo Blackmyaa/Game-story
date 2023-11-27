@@ -1,0 +1,84 @@
+html {
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+
+    background-color: rgb(0, 0, 0);
+    color: rgb(134, 131, 125);
+}
+
+body>div {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-link {
+    color: rgba(243, 237, 237, 0.4) !important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+header div {
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.rechercher {
+    min-width: 125px;
+}
+
+.bordarrondi {
+    border-radius: 10px !important;
+}
+
+.fondvert {
+    background-color: #198754;
+    padding: 10px;
+    color: white;
+}
+
+.fondvert a {
+    color: white;
+    text-decoration: none;
+}
+
+.fondblc {
+    background-color: white;
+    padding: 10px;
+    color: black;
+}
+
+.fondblc a {
+    color: black;
+    text-decoration: none;
+}
+
+.item {
+    width: 180px;
+    height: 200px;
+    overflow: hidden;
+    flex-shrink: 0;
+    margin-top: 20px;
+    border-color: black;
+}
+
+.card {
+    border-color: black;
+}
+
+.grisclr {
+    color: white;
+    background-color: #A9A9A9;
+}
+
+.grisfonce {
+    color: white;
+    background-color: #808080
+}
